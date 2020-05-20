@@ -1,4 +1,4 @@
-# Vue Js single page application using junit testing and .Net core back end using NSubstitue mocking framework
+# VueJs single page application with Vuex and junit with .Net back-end
 
 ## Project setup
 ```
