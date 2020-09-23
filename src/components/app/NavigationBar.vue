@@ -3,7 +3,7 @@
         <div class='container-fluid'>
             <div class='navbar-header'>
                 <router-link class='navbar-brand' :title='strwLink' to='/'>
-                    AGL Test wizard  
+                   Test wizard  
                 </router-link>
             </div>
            
